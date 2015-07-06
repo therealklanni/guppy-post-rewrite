@@ -1,6 +1,6 @@
 {
   "name": "guppy-post-rewrite",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Installs a post-rewrite git-hook only, for guppy packages",
   "main": "index.js",
   "scripts": {
